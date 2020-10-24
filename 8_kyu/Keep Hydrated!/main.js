@@ -1,0 +1,1 @@
+const litres = time => time > 1 ? Math.floor(time / 2) : 0;
