@@ -1,0 +1,1 @@
+const reverse = array => array.reduce((a, b) => [b, ...a], []);
