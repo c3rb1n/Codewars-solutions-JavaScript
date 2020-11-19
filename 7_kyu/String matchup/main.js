@@ -1,0 +1,1 @@
+const solve = (a, b) => b.map(v => a.filter(val => v === val).length);
