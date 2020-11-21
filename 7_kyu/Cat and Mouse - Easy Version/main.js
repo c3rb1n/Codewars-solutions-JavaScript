@@ -1,0 +1,1 @@
+const catMouse = x => x.length <= 5 ? "Caught!" : "Escaped!";
