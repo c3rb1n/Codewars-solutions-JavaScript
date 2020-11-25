@@ -1,0 +1,1 @@
+const incrementer = nums => nums.map((n, index) => (n + index + 1) % 10);
