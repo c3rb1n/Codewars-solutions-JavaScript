@@ -1,0 +1,1 @@
+const validSpacing = s => s.trim() === s && !s.includes("  ");
