@@ -1,1 +1,1 @@
-const isSquare = n => Math.sqrt(n) % 1 === 0;
+const isSquare = n => Math.sqrt(n) === 0 || n % Math.sqrt(n) === 0;
